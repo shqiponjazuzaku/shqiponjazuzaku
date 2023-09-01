@@ -3,4 +3,4 @@
 # Hi there👋
 I'm Shqiponja, a fresh graduate computer science student, future web developer with passion and curiosity for design. I really enjoy learning languages and frameworks, solving maths problems, and design something creativity.
 
-## Skills
+## Languages and Tools:
