@@ -1,5 +1,6 @@
 
-![linkedin-canva](https://github.com/shqiponjazuzaku/shqiponjazuzaku/assets/143807785/40e7e214-5aeb-4f84-8e6f-3e91d86f995d)
+
+![github](https://github.com/shqiponjazuzaku/shqiponjazuzaku/assets/143807785/9e2a47b2-27f2-4c1d-bba7-863c4ba1a3a7)
 
 # Hi there👋
 I'm Shqiponja, a fresh graduate computer science student, future web developer with passion and curiosity for design. I really enjoy learning languages and frameworks, solving maths problems, and design something creativity.
