@@ -1,6 +1,6 @@
 
 
-![github](https://github.com/shqiponjazuzaku/shqiponjazuzaku/assets/143807785/9e2a47b2-27f2-4c1d-bba7-863c4ba1a3a7)
+![github-profile](https://github.com/shqiponjazuzaku/shqiponjazuzaku/assets/143807785/bd4160ea-d630-4eef-8453-9e1b3d647ca1)
 
 # Hi there👋
 I'm Shqiponja, a fresh graduate computer science student, future web developer with passion and curiosity for design. I really enjoy learning languages and frameworks, solving maths problems, and design something creativity.
